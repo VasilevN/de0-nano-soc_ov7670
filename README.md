@@ -1,0 +1,1 @@
+# de0-nano-soc_ov7670
